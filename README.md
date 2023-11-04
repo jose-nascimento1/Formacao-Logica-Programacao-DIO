@@ -1,5 +1,5 @@
 # Formação Lógica de Programação
-Repositório criado para os desafios de códigos realizados na Formação. Com uma trilha de 41 horas, focadas em dominar os fundamentos da programação com clareza. Aprendendo a trabalhar com variáveis para armazenar informações, dominando laços de repetição para otimizar fluxos, criando funções para organizar o código e explorar o conceito de objetos para criar uma estrutura de dados mais complexas. 
+Repositório criado para os desafios de códigos e projetos realizados na Formação. Com uma trilha de 41 horas, focadas em dominar os fundamentos da programação com clareza. Aprendendo a trabalhar com variáveis para armazenar informações, dominando laços de repetição para otimizar fluxos, criando funções para organizar o código e explorar o conceito de objetos para criar uma estrutura de dados mais complexas. 
 
 🔗 [Clique aqui para acessar o certificado](https://www.dio.me/certificate/F4DBDAB2/share)
 
